@@ -1,0 +1,15 @@
+/home/ben/C#/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/home/ben/C#/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/ben/C#/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/home/ben/C#/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/home/ben/C#/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/home/ben/C#/Classes/bin/Debug/net6.0/Classes
+/home/ben/C#/Classes/bin/Debug/net6.0/Classes.deps.json
+/home/ben/C#/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/home/ben/C#/Classes/bin/Debug/net6.0/Classes.dll
+/home/ben/C#/Classes/bin/Debug/net6.0/ref/Classes.dll
+/home/ben/C#/Classes/bin/Debug/net6.0/Classes.pdb
+/home/ben/C#/Classes/obj/Debug/net6.0/Classes.dll
+/home/ben/C#/Classes/obj/Debug/net6.0/ref/Classes.dll
+/home/ben/C#/Classes/obj/Debug/net6.0/Classes.pdb
+/home/ben/C#/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
