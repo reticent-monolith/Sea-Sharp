@@ -1,3 +1,6 @@
+using System.Collections;
+using System.Collections.Generic;
+
 namespace LinkedList;
 
 public class LinkedList<T>: IEnumerable<T>
@@ -118,9 +121,20 @@ public class LinkedList<T>: IEnumerable<T>
     }
 
     // Interface methods
-    public IEnumerator<T> GetEnumerator()
+    public IEnumerator<T> GetEnumerator() 
     {
-        
+        Node? currentNode = startNode;
+        if (currentNode == null) yield break;
+        while (currentNode != null) {
+            yield return currentNode.Value;
+            currentNode = currentNode.Next;
+        }
+        yield break;
+    }
+
+    IEnumerator IEnumerable.GetEnumerator()
+    {
+        return GetEnumerator();
     }
 
     // Other methods

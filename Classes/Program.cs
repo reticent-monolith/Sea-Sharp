@@ -9,7 +9,9 @@ class Program
         people.Add(new Person("Gemma", 33));
         people.Add(new Person("Daisy", 1));
 
-        Console.WriteLine(people);
+        foreach (Person p in people) {
+            Console.WriteLine(p);
+        }
 
     }
 }
